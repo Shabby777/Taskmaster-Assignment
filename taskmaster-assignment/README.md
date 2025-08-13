@@ -2,6 +2,20 @@
 
 A modern, responsive task management application built with Next.js and React, featuring a clean UI, dark mode support, and comprehensive task management capabilities.
 
+## Screenshots
+
+### Light Mode Dashboard
+![TaskMaster Light Mode](/placeholder.svg?height=600&width=1200&query=TaskMaster%20dashboard%20light%20mode%20with%20task%20cards%20sidebar%20and%20clean%20interface)
+
+### Dark Mode Dashboard
+![TaskMaster Dark Mode](/placeholder.svg?height=600&width=1200&query=TaskMaster%20dashboard%20dark%20mode%20with%20task%20cards%20sidebar%20and%20modern%20dark%20interface)
+
+### Mobile Responsive View
+![TaskMaster Mobile](/placeholder.svg?height=800&width=400&query=TaskMaster%20mobile%20responsive%20view%20with%20collapsible%20sidebar%20and%20task%20cards)
+
+### Task Management Features
+![Task Features](/placeholder.svg?height=500&width=1000&query=TaskMaster%20task%20management%20features%20with%20priority%20colors%20and%20completion%20states)
+
 ## Features
 
 - **Task Management**: Create, edit, delete, and mark tasks as complete
