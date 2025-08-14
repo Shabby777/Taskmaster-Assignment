@@ -4,6 +4,10 @@ A modern, responsive task management application built with Next.js and React, f
 
 ## Screenshots
 
+![Dashboard](public/screenshot1.jpg)
+![Settings](public/screenshot2.jpg)
+![User Profile](public/screenshot3.jpg)
+
 
 ## Features
 
