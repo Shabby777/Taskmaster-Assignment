@@ -37,15 +37,15 @@ contexts/
 - Dark mode preferences
 - User profile data
 
-components/
-├── ui/ # Reusable UI components (shadcn/ui)
-├── header.tsx # Top navigation with notifications
-├── sidebar.tsx # Navigation sidebar with theme toggle
-├── task-card.tsx # Individual task display component
-├── task-grid.tsx # Task layout and filtering
-├── add-task-form.tsx # Task creation form
-├── user-profile.tsx # User profile management
-└── settings.tsx # App settings panel
+### Component Structure
+├── ui/ # Reusable UI components (shadcn/ui)   
+├── header.tsx # Top navigation with notifications   
+├── sidebar.tsx # Navigation sidebar with theme toggle   
+├── task-card.tsx # Individual task display component   
+├── task-grid.tsx # Task layout and filtering   
+├── add-task-form.tsx # Task creation form   
+├── user-profile.tsx # User profile management   
+└── settings.tsx # App settings panel    
 
 **Key Decision**: Adopted a component-first architecture with clear separation of concerns. Each component handles its own presentation logic while relying on context for state.
 
