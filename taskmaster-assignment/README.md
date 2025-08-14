@@ -124,8 +124,8 @@ const toggleDarkMode = () => {
 ## Project Structure
 
 \`\`\`
-taskmaster/
-├── app/
+taskmaster/   
+├── app/    
 │   ├── globals.css    # Global styles and CSS variables   
 │   ├── layout.tsx     # Root layout with providers   
 │   └── page.tsx       # Main dashboard page   
