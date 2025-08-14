@@ -26,10 +26,8 @@ A modern, responsive task management application built with Next.js and React, f
 ### State Management
 The application uses **React Context** with `useReducer` for centralized state management:
 
-\`\`\`
-contexts/
+### Contexts
 ├── app-context.tsx     # Global state management with AppProvider
-\`\`\`
 
 **Key Decision**: Chose React Context over external libraries (Redux, Zustand) for simplicity while maintaining scalability. The context manages:
 - Task CRUD operations
@@ -128,14 +126,14 @@ const toggleDarkMode = () => {
 \`\`\`
 taskmaster/
 ├── app/
-│   ├── globals.css    # Global styles and CSS variables
-│   ├── layout.tsx     # Root layout with providers
-│   └── page.tsx       # Main dashboard page
-├── components/        # React components
-├── contexts/          # React Context providers
-├── types/            # TypeScript type definitions
-└── README.md         # Project documentation
-\`\`\`
+│   ├── globals.css    # Global styles and CSS variables   
+│   ├── layout.tsx     # Root layout with providers   
+│   └── page.tsx       # Main dashboard page   
+├── components/        # React components   
+├── contexts/          # React Context providers   
+├── types/            # TypeScript type definitions   
+└── README.md         # Project documentation   
+\`\`\` 
 
 
 ---
